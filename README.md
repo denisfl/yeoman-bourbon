@@ -4,6 +4,6 @@ How to use:
 ---------------
 
   - open terminal
-  - make: `git pull git://github.com/denisfl/yeoman-bourbon.git`
+  - make: `git clone git://github.com/denisfl/yeoman-bourbon.git`
   - `cd yeoman-bourbon`
   - run yeoman: `yeoman server`
